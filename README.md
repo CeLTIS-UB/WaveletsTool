@@ -1,6 +1,6 @@
 # WaveletsTool
 This is the software instrument presented in the article 
-"A Method for Tree Detection Based on Similarity with Geometric Shapes of 3D Geospatial Data".
+"A Method for Tree Detection Based on Similarity with Geometric Shapes of 3D Geospatial Data", available online at   <a>https://www.mdpi.com/2220-9964/9/5/298</a> 
 
 The paper presents an approach for detecting patterns in a three-dimensional context. 
 The core of the associated algorithm is represented by the cosine similarity computed 
@@ -13,5 +13,5 @@ The software tool is developed in two variants, one in Esri's ArcGIS Platform an
 The instrument development and the steps required for installing the tool are described in the file "Description_Software_Development_Wavelet_Tool.docx"
 
 If you use the instrument, please cite the article as follows: 
-Mihai-Sorin Stupariu, Alin-Ionuț Pleșoianu, Ileana Pătru-Stupariu and Christine Fürst. A Method for Tree Detection Based on Similarity with Geometric Shapes of 3D Geospatial Data. <i>International Journal of Geo-Information </i>. <b>2020 </b>, <i>9 </i>, 298; DOI doi:10.3390/ijgi9050298, <a>"https://www.mdpi.com/2220-9964/9/5/298" </a> 
+Stupariu, M.-S.; Pleșoianu, A.-I.; Pătru-Stupariu, I.; Fürst, C. A Method for Tree Detection Based on Similarity with Geometric Shapes of 3D Geospatial Data. <i>International Journal of Geo-Information</i>. <b>2020</b>, <i>9</i>, 298, doi:10.3390/ijgi9050298. 
 
